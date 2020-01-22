@@ -1,0 +1,77 @@
+body{
+  background-image: url("../images/catgif.gif");
+  background-repeat: repeat;
+  font-size: x-large;
+  }
+
+.wrapper{
+  background: white;
+  width: 70%;
+  margin: 200px auto;
+  padding-bottom: 5% ;
+}
+.addburger button{
+  background: red;
+  height: 50px;
+  width: 100px;
+  color: white;
+}
+.devoured{
+  background: yellow;
+  padding: 0px 25px 0px 25px;
+}
+.devoured h2{
+  background: yellow;
+}
+
+.noteaten{
+  background: yellowgreen;
+  padding: 0px 20px 0px 20px;
+}
+
+.noteaten h2{
+  background: yellowgreen;
+}
+
+li {
+  padding: 5px;
+  margin: 5px;
+  /* background: #faebd7; */
+  list-style: none;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+  background: aqua;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
+
+.container{
+  display:flex;
+  justify-content: space-around;
+  background: white;
+  /* margin-top: 100px; */
+}
+
+.addburger{
+  display: flex;
+  justify-content: center;
+  background: white;
+}
+
+h2{
+  text-align: center;
+  background-color: white;
+}
+
+h1{
+  text-align: center;
+}
